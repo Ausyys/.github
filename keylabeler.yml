@@ -5,7 +5,7 @@ matchTitle: true
 matchBody: true
 
 # Determines if label matching is case sensitive (optional). Defaults to true.
-caseSensitive: false
+caseSensitive: true
 
 # Explicit keyword mappings to labels. Form of match:label. Required.
 labelMappings:
